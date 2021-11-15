@@ -1,6 +1,5 @@
 # Tiktok_Sel_API
 
-[![Downloads](https://pepy.tech/badge/)](https://pypi.org/project//)
 
 ## Anouncements
 Free Tiktok Api, will make files public when fully tested and presentable.
