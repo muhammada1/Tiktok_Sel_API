@@ -3,7 +3,7 @@
 [![Downloads](https://pepy.tech/badge/)](https://pypi.org/project//)
 
 ## Anouncements
-Free Tiktok Api, will make public when fully tested and presentable.
+Free Tiktok Api, will make files public when fully tested and presentable.
 
 
 ## Feature List
